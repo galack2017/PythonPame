@@ -78,7 +78,7 @@
 #    num-=1
 
 
-#Crear un iterador de listas que pare cuando uno de sus elementos sea 0
+#Crear un iterador de listas que pare cuando todos sus elementos sean 0
 
 lista = [3,4,5,7]
 resta=1
